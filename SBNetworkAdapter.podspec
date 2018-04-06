@@ -6,7 +6,7 @@ s.version   = "1.0.0"
 #3.
 s.summary   = "A Network Adapter Framework which eases your API call paradigm"
 #4.
-s.homePage = "https://github.com/sohamb1390/SBNetworkAdapter"
+s.homepage = "https://github.com/sohamb1390/SBNetworkAdapter"
 #5.
 s.license   = "MIT"
 #6.
